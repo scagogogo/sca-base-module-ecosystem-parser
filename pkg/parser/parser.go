@@ -1,4 +1,4 @@
-package base_module_ecosystem_parser
+package parser
 
 import (
 	"context"
